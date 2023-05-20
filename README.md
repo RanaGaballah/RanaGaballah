@@ -16,27 +16,24 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100"/>
 </div>
 
-
 <h3 align="center">A passionate Computer Science Student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranagaballah&label=Profile%20views&color=0e75b6&style=flat" alt="ranagaballah" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranagaballah" alt="ranagaballah" /></a> </p>
+
 - 🌱 I’m currently learning **Laravel, ba**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rana-gaballah-9a5299219](https://www.linkedin.com/in/rana-gaballah-9a5299219)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rana-gaballah-9a5299219](https://www.linkedin.com/in/rana-gaballah-9a5299219)
 
 - 📫 How to reach me **ranagaballah88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rana-gaballah-9a5299219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rana-gaballah-9a5299219" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ranagaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ranagaballah" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rana.gaballah.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rana.gaballah.5" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ranagaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ranagaballah" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rana_gaballah55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rana_gaballah55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ranagaballah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ranagaballah/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://kaggle.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://fb.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://www.behance.net/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rana_gaballah55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rana_gaballah55" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rana gaballah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,3 +44,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranagaballah&show_icons=true&locale=en" alt="ranagaballah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranagaballah&" alt="ranagaballah" /></p>
+
+
+
+
+
+
+
+
+
