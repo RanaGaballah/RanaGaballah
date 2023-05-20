@@ -3,7 +3,8 @@
 
    ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7F7E4&center=true&vCenter=true&width=435&lines=Welcome+To+Rana's++GitHub+Account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charka+Petch&weight=500&height=70&size=40&duration=4500&pause=700&color=A7F7E4&background=FFDBDB00&center=true&width=700&lines=Welcome+To+Rana's++GitHub+Account+😄)](https://git.io/typing-svg)
+  ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
 
  
