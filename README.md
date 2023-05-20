@@ -13,7 +13,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400"/>
 </div>
 
 <h3 align="center">A passionate Computer Science Student from Egypt</h3>
@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana gaballah" height="30" width="40" /></a>
-<a href="https://kaggle.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rana-gaballah-9a5299219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ranagaballah target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rana gaballah" height="30" width="40" /></a>
 <a href="https://fb.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana gaballah" height="30" width="40" /></a>
-<a href="https://www.behance.net/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rana gaballah" height="30" width="40" /></a>
+<a href="https://www.behance.net/ranagaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rana gaballah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rana_gaballah55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rana_gaballah55" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rana gaballah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rana gaballah" height="30" width="40" /></a>
 </p>
